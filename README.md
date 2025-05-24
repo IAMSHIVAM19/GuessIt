@@ -1,5 +1,4 @@
-🎮 GuessIt!
-GuessIt! is a fun, terminal-based word guessing game where you have 6 attempts to guess a secret 5-letter word.
+🎮 GuessIt! is a fun, terminal-based word guessing game where you have 6 attempts to guess a secret 5-letter word.
 
 After each guess, you'll receive color-coded feedback:
 
